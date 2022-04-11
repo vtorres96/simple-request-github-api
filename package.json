@@ -1,0 +1,17 @@
+{
+  "name": "requests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "requisicao-api-github.js",
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node requisicao-api-github.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
