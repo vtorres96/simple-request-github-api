@@ -7,10 +7,10 @@
 - async/await
 ```
 
-## How to install package
+## How to install packages
 
 ```sh
-npm install axios
+npm install
 ```
 
 ## How to run file
